@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @DevKakau
-- 👀 I’m interested in being a programmer and I'm currently studying for it, I'm a beginner programmer.
-- 🌱 I’m currently learning at the moment web programming, I'm learning Html, Css, Java Script and I know python, but my current focus is working as a front-end dev.
-- 💞️ I'm looking to collaborate as a team and learn more and more, especially with the most experienced people in the area.
-- 📫 How to reach me, my contact email is kauawiklefff@gmail.com, my phone number 98 9 8569-3347.
+### Olá! Eu sou o Kauã 👋
 
-<!---
-DevKakau/DevKakau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Sou um desenvolvedor **back-end** apaixonado por tecnologia e sempre em busca de aprender mais! Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e sou formado como **Técnico em Informática pelo IFMA**.
+
+### ✨ Tecnologias e Ferramentas
+- 💪 Java | Spring Boot
+- 🏢 MySQL | Banco de Dados Relacional
+- ✨ Node.js | APIs e Servidores
+
+### ✅ Sobre mim
+- 🌟 Sempre buscando evoluir e aprender novas tecnologias
+- 🌐 Apaixonado por desenvolvimento e inovação
+- ⚙️ Trabalhando para me tornar um profissional ainda melhor!
+
+### 🌟 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kau%C3%A3-wikleff-a3b447348/)
+[![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@devkakau?si=qBP5DKyJ0q0LQbyp)
+
+---
+
+Vamos codar juntos? 💪💻
+
