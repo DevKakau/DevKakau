@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Kauã 👋
 
-Sou um desenvolvedor **back-end** apaixonado por tecnologia e sempre em busca de aprender mais! Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e sou formado como **Técnico em Informática pelo IFMA**.
+Sou um desenvolvedor **back-end** apaixonado por tecnologia e sempre em busca de aprender mais! Atualmente, estou estudando **Análise e Desenvolvimento de Sistemas (ADS)** e sou formado como **Técnico em Informática pelo IFMA,
+recetemente criei um canal no Youtube onde faço lives estudando programação**.
 
 ### ✨ Tecnologias e Ferramentas
 - 💪 Java | Spring Boot
@@ -16,7 +17,5 @@ Sou um desenvolvedor **back-end** apaixonado por tecnologia e sempre em busca de
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/kau%C3%A3-wikleff-a3b447348/)
 [![YouTube](https://img.shields.io/badge/YouTube-000?style=for-the-badge&logo=youtube&logoColor=FF0000)](https://youtube.com/@devkakau?si=qBP5DKyJ0q0LQbyp)
 
----
 
-Vamos codar juntos? 💪💻
 
